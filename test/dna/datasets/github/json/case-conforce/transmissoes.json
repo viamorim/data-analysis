@@ -1,0 +1,350 @@
+[
+ {
+   "Código": 1,
+   "Motivo da transmissão": "Módulo energizado"
+ },
+ {
+   "Código": 2,
+   "Motivo da transmissão": "Reconexão GPS"
+ },
+ {
+   "Código": 3,
+   "Motivo da transmissão": "Intervalo de transmissão parado"
+ },
+ {
+   "Código": 4,
+   "Motivo da transmissão": "Intervalo de transmissão em movimento"
+ },
+ {
+   "Código": 5,
+   "Motivo da transmissão": "Intervalo de transmissão em pânico"
+ },
+ {
+   "Código": 6,
+   "Motivo da transmissão": "Configuração de entrada"
+ },
+ {
+   "Código": 7,
+   "Motivo da transmissão": "Requisição do servidor"
+ },
+ {
+   "Código": 8,
+   "Motivo da transmissão": "Posição válida após intervalo de transmissão"
+ },
+ {
+   "Código": 9,
+   "Motivo da transmissão": "Ignição ligada"
+ },
+ {
+   "Código": 10,
+   "Motivo da transmissão": "Ignição desligada"
+ },
+ {
+   "Código": 11,
+   "Motivo da transmissão": "Pânico ativado"
+ },
+ {
+   "Código": 12,
+   "Motivo da transmissão": "Pânico desativado"
+ },
+ {
+   "Código": 13,
+   "Motivo da transmissão": "Entrada 1 ativada"
+ },
+ {
+   "Código": 14,
+   "Motivo da transmissão": "Entrada 1 aberta"
+ },
+ {
+   "Código": 15,
+   "Motivo da transmissão": "Entrada 2 ativada"
+ },
+ {
+   "Código": 16,
+   "Motivo da transmissão": "Entrada 2 aberta"
+ },
+ {
+   "Código": 17,
+   "Motivo da transmissão": "Entrada 3 ativada"
+ },
+ {
+   "Código": 18,
+   "Motivo da transmissão": "Entrada 3 aberta"
+ },
+ {
+   "Código": 19,
+   "Motivo da transmissão": "Entrada 4 ativada"
+ },
+ {
+   "Código": 20,
+   "Motivo da transmissão": "Entrada 4 aberta"
+ },
+ {
+   "Código": 21,
+   "Motivo da transmissão": "Q-Sensor: Movimento"
+ },
+ {
+   "Código": 22,
+   "Motivo da transmissão": "Q-Sensor: Parado"
+ },
+ {
+   "Código": 23,
+   "Motivo da transmissão": "Antifurto alarmado"
+ },
+ {
+   "Código": 24,
+   "Motivo da transmissão": "Falha de acessório"
+ },
+ {
+   "Código": 25,
+   "Motivo da transmissão": "Falha de energia externa"
+ },
+ {
+   "Código": 26,
+   "Motivo da transmissão": "Energia externa OK"
+ },
+ {
+   "Código": 27,
+   "Motivo da transmissão": "Falha da antena GPS"
+ },
+ {
+   "Código": 28,
+   "Motivo da transmissão": "Antena GPS OK"
+ },
+ {
+   "Código": 29,
+   "Motivo da transmissão": "Pacote recebido de um acessório Wireless"
+ },
+ {
+   "Código": 30,
+   "Motivo da transmissão": "Entrou em modo Sleep"
+ },
+ {
+   "Código": 31,
+   "Motivo da transmissão": "Saída 1 ativada"
+ },
+ {
+   "Código": 32,
+   "Motivo da transmissão": "Saída 1 desativada"
+ },
+ {
+   "Código": 33,
+   "Motivo da transmissão": "Saída 2 ativada"
+ },
+ {
+   "Código": 34,
+   "Motivo da transmissão": "Saída 2 desativada"
+ },
+ {
+   "Código": 35,
+   "Motivo da transmissão": "Saída 3 ativada"
+ },
+ {
+   "Código": 36,
+   "Motivo da transmissão": "Saída 3 desativada"
+ },
+ {
+   "Código": 37,
+   "Motivo da transmissão": "Velocidade máxima excedida"
+ },
+ {
+   "Código": 38,
+   "Motivo da transmissão": "Velocidade normalizada"
+ },
+ {
+   "Código": 39,
+   "Motivo da transmissão": "Entrada em ponto de referência"
+ },
+ {
+   "Código": 40,
+   "Motivo da transmissão": "Saída de ponto de referência"
+ },
+ {
+   "Código": 41,
+   "Motivo da transmissão": "Falha na bateria de Backup"
+ },
+ {
+   "Código": 42,
+   "Motivo da transmissão": "Bateria de Backup OK"
+ },
+ {
+   "Código": 43,
+   "Motivo da transmissão": "Posição reenviada por falha de envio na primeira tentativa"
+ },
+ {
+   "Código": 44,
+   "Motivo da transmissão": "Posição requisitada por SMS"
+ },
+ {
+   "Código": 45,
+   "Motivo da transmissão": "Violação do módulo"
+ },
+ {
+   "Código": 46,
+   "Motivo da transmissão": "Limite do sensor frente/traseiro atingido"
+ },
+ {
+   "Código": 47,
+   "Motivo da transmissão": "Limite do sensor lateral atingido"
+ },
+ {
+   "Código": 48,
+   "Motivo da transmissão": "Limite do sensor vertical atingido"
+ },
+ {
+   "Código": 49,
+   "Motivo da transmissão": "Alteração na direção recebida pelo GPS"
+ },
+ {
+   "Código": 50,
+   "Motivo da transmissão": "Transmissão realizada no mesmo momento do envio de uma posição por SMS"
+ },
+ {
+   "Código": 51,
+   "Motivo da transmissão": "MXT desligado"
+ },
+ {
+   "Código": 52,
+   "Motivo da transmissão": "Antifurto passa para o estado normal"
+ },
+ {
+   "Código": 53,
+   "Motivo da transmissão": "Detecção de Jamming"
+ },
+ {
+   "Código": 54,
+   "Motivo da transmissão": "Módulo detecta que não está mais em situação de Jamming"
+ },
+ {
+   "Código": 55,
+   "Motivo da transmissão": "Alta rotação (RPM) em movimento"
+ },
+ {
+   "Código": 56,
+   "Motivo da transmissão": "Alta rotação em ponto neutro"
+ },
+ {
+   "Código": 57,
+   "Motivo da transmissão": "Detecção de velocidade em ponto neutro"
+ },
+ {
+   "Código": 58,
+   "Motivo da transmissão": "Falha de GPS (incomunicação com satélites)"
+ },
+ {
+   "Código": 59,
+   "Motivo da transmissão": "Limite de Distância alcançado"
+ },
+ {
+   "Código": 60,
+   "Motivo da transmissão": "Falha de alimentação e falha de GPS"
+ },
+ {
+   "Código": 61,
+   "Motivo da transmissão": "Requisição por AGPS"
+ },
+ {
+   "Código": 62,
+   "Motivo da transmissão": "Status do Acessório Wireless mudou de 1 para 0"
+ },
+ {
+   "Código": 63,
+   "Motivo da transmissão": "Status da bateria do acessório Wireless alterou"
+ },
+ {
+   "Código": 64,
+   "Motivo da transmissão": "Falha no link com WT200"
+ },
+ {
+   "Código": 65,
+   "Motivo da transmissão": "Alteração no status das saídas do Expansor de I/O"
+ },
+ {
+   "Código": 66,
+   "Motivo da transmissão": "Status do Acessório Wireless mudou de 0 para 1"
+ },
+ {
+   "Código": 67,
+   "Motivo da transmissão": "Status da bateria a 30% da capacidade"
+ },
+ {
+   "Código": 68,
+   "Motivo da transmissão": "Status da bateria a 20% da capacidade"
+ },
+ {
+   "Código": 69,
+   "Motivo da transmissão": "Excesso de tempo parado com ignição ligada"
+ },
+ {
+   "Código": 70,
+   "Motivo da transmissão": "Movimento indevido"
+ },
+ {
+   "Código": 71,
+   "Motivo da transmissão": "Câmera G-100"
+ },
+ {
+   "Código": 72,
+   "Motivo da transmissão": "Câmera G-100"
+ },
+ {
+   "Código": 73,
+   "Motivo da transmissão": "Câmera G-100"
+ },
+ {
+   "Código": 74,
+   "Motivo da transmissão": "Câmera G-100"
+ },
+ {
+   "Código": 75,
+   "Motivo da transmissão": "Câmera G-100"
+ },
+ {
+   "Código": 76,
+   "Motivo da transmissão": "Transferência de dado livre na RS232"
+ },
+ {
+   "Código": 77,
+   "Motivo da transmissão": "Ignição Virtual calibrada"
+ },
+ {
+   "Código": 78,
+   "Motivo da transmissão": "Ocorre quando o equipamento entra no modo Deep sleep"
+ },
+ {
+   "Código": 79,
+   "Motivo da transmissão": "Exceder limite de velocidade para chuva"
+ },
+ {
+   "Código": 80,
+   "Motivo da transmissão": "Velocidade em chuva normalizada"
+ },
+ {
+   "Código": 81,
+   "Motivo da transmissão": "Exceder o limite de aceleração configurada"
+ },
+ {
+   "Código": 82,
+   "Motivo da transmissão": "Aceleração volta ao normal após exceder aceleração configurada"
+ },
+ {
+   "Código": 83,
+   "Motivo da transmissão": "Exceder o limite de desaceleração configurada"
+ },
+ {
+   "Código": 84,
+   "Motivo da transmissão": "Desaceleração volta ao normal após exceder aceleração configurada"
+ },
+ {
+   "Código": 85,
+   "Motivo da transmissão": "Login de motorista por RFID"
+ },
+ {
+   "Código": 86,
+   "Motivo da transmissão": "Logout de motorista por RFID"
+ },
+ {
+   "Código": 87,
+   "Motivo da transmissão": "Pacote de informação de Passageiro por RFID"
+ }
+]
